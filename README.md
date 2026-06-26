@@ -14,7 +14,6 @@ The tool is intended for situations where mapped polygon values represent genera
 
 - Generate continuous gradient rasters from polygon features
 - Preserve broad spatial patterns while smoothing polygon boundaries
-- Multiple focal statistics operations
 - Optional point feature integration
 - Automatic output cell size calculation from visualization map scale
 - Optional custom output cell size override
@@ -45,6 +44,14 @@ The tool is intended for situations where mapped polygon values represent genera
 2. Open ArcGIS Pro.
 3. Add **ContinuousSurfaceModeling.atbx** to your project.
 4. Open **Polygon to Gradient Raster**.
+
+---
+
+## Usage Options
+
+This tool is provided as:
+- An ArcGIS Pro toolbox for interactive use
+- A Python script implementing the core processing workflow used by the toolbox
 
 ---
 

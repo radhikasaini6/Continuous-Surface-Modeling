@@ -29,7 +29,6 @@ The tool is intended for situations where mapped polygon values represent genera
 | `ContinuousSurfaceModeling.atbx` | ArcGIS Pro toolbox containing the **Polygon to Gradient Raster** tool |
 | `PolygonToGradientRaster.py` | Standalone Python implementation |
 | `docs/` | Documentation and methodology |
-| `examples/` | Sample data and example outputs |
 ---
 
 ## Requirements

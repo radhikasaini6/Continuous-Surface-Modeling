@@ -102,3 +102,36 @@ The recommended output cell size depends on the intended map scale.
 | 1:20,000 | 10 m |
 | 1:50,000 | 25 m |
 
+---
+
+## Example Usage
+
+### Tool Interface
+
+The screenshot below shows the **Polygon to Gradient Raster** tool interface in ArcGIS Pro with example parameters populated.
+
+<img width="444" height="992" alt="Tool_Interface" src="https://github.com/user-attachments/assets/098899af-51f9-47f4-8dac-dcf871f5b190" />
+
+
+
+### Example Application
+
+The tool can be applied to a wide range of GIS and environmental modeling workflows where polygon-based data must be represented as a continuous surface.
+
+A common use case is **surficial geology modeling**, where mapped surficial material polygons represent generalized thickness classes and abrupt polygon boundaries do not accurately reflect real-world conditions.
+
+Field observations such as **bedrock exposure points** can be incorporated as point features to locally influence the modeled surface.
+
+The resulting raster provides a more realistic representation of:
+- Drift thickness transitions
+- Gradual changes between mapped units
+- Localized thinning toward bedrock exposures
+
+
+### Example Output
+
+The figure below compares the input polygon data (left) with the resulting gradient raster (right), demonstrating how the tool smooths abrupt boundaries while preserving overall spatial patterns.
+
+<img width="540" height="390" alt="PolygontoGradientRasterIllustrator" src="https://github.com/user-attachments/assets/e00c7d8b-ba75-42f4-97ed-aa96f5527716" />
+
+

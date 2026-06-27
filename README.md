@@ -138,6 +138,6 @@ The resulting raster provides a more realistic representation of:
 
 The figure below compares the input polygon data (left) with the resulting gradient raster (right), demonstrating how the tool smooths abrupt boundaries while preserving overall spatial patterns.
 
-<img width="540" height="390" alt="PolygontoGradientRasterIllustrator" src="https://github.com/user-attachments/assets/e00c7d8b-ba75-42f4-97ed-aa96f5527716" />
+<img width="1260" height="910" alt="PolygontoGradientRasterIllustrator" src="https://github.com/user-attachments/assets/44c9ab56-b5cd-462a-a73b-7bfe57898ff6" />
 
 

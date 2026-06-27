@@ -1,6 +1,6 @@
 # Continuous Surface Modeling
 
-An ArcGIS Pro toolbox and Python script for generating a continuous gradient raster from polygon features using user-specified polygon values, with optional point features to locally influence the resulting surface.
+An ArcGIS Pro toolbox and Python script for generating a continuous gradient raster from polygon features using user-specified polygon values, with optional point features to locally influence the resulting raster.
 
 ## Overview
 
